@@ -10,7 +10,7 @@ permissions:
 
 env:
   CTF_ORGANIZATION: 'actionsctf23'
-  CTF_TEMPLATE_REPO: 'ctf-challenge-template-1'
+  CTF_TEMPLATE_REPO: 'ctf-challenge-template-5'
 
 jobs:  
   enroll-user:
